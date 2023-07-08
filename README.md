@@ -1,6 +1,6 @@
 # Festival Musical
 
-Proyecto implementando SAAS y Gulp
+Proyecto implementando SASS y Gulp
 
 ## Descripción del proyecto
 
